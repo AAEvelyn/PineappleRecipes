@@ -26,5 +26,5 @@ Basic structure of HTML and its tags.
 Make use of the basic CSS selectors.
 
 ## 4.Link to Demo
-Here you can view the finished project💚! [🍍Recipes](https://googlecloneve.netlify.app)
+Here you can view the finished project💚! [🍍Recipes](https://pineapplerecipes.netlify.app/)
 
