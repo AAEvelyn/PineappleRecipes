@@ -111,10 +111,13 @@ p{
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.iconoir-instagram{
-  display: inline;
+.iconoir{
+  display:flex;
   justify-content: center;
-  /**margin-left: 580px;**/
+  align-items: center;
+}
+
+.iconoir-instagram{
   color:#397c2c;
   padding-left: 20px;
 }
