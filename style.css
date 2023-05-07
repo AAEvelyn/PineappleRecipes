@@ -90,7 +90,7 @@ img{
 .seccion-oscura{
   background-color: #ffbc11;
   height: 200px;
-  margin:none;
+  
 
 }
 
@@ -114,7 +114,7 @@ p{
 .iconoir-instagram{
   display: inline;
   justify-content: center;
-  margin-left: 580px;
+  /**margin-left: 580px;**/
   color:#397c2c;
   padding-left: 20px;
 }
