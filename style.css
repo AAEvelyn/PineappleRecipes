@@ -23,7 +23,7 @@ a{
     
 
 .nav-item{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Dancing Script', cursive;
     margin-right: 25px;
     align-items: center;
     float: right;
@@ -37,7 +37,7 @@ a{
 /** FRASE**/
 
 h1{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Dancing Script', cursive;
     text-align: center;
     color:whitesmoke;
     /**text-decoration:underline;**/
@@ -48,21 +48,21 @@ h1{
 
 
 h2{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Dancing Script', cursive;
     text-align: center;
     color: black;
     
 }
 
 h3{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Dancing Script', cursive;
     text-align: left;
 }
 
 .autora{
     color:black;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Dancing Script', cursive;
     
 }
 
@@ -103,7 +103,7 @@ h1{
 
 h4{
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Dancing Script', cursive;
 
 }
 
