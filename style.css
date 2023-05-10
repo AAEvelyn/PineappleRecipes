@@ -1,6 +1,5 @@
 body{
      background-color: #ffcd57;
-    /** #ffb134**/
     
 }
 
@@ -18,6 +17,7 @@ body{
      color:#6b8f0b;
     font-size:60px;
      margin-top: 10px
+}
 
 .navegacion {
     list-style-type: none;
