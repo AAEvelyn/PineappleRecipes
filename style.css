@@ -9,15 +9,15 @@ body{
 
 .seccion{
      background-color: #ffbc11;
-     height:200px;
-     margin:none;
+     height: 200px;
 }
 
 .seccion h1{
-    font-family: 'Dancing Script', cursive;
-    text-align: center;
-    color:#6b8f0b;
-}
+     font-family: 'Dancing Script', cursive;
+     text-align: center;
+     color:#6b8f0b;
+    font-size:60px;
+     margin-top: 10px
 
 .navegacion {
     list-style-type: none;
