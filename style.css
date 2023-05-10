@@ -9,7 +9,13 @@ body{
 
 .seccion{
      background-color: #ffbc11;
-     height: 200px;
+     height: 100px;
+}
+
+.seccion h1{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color:whitesmoke;
 }
 
 .navegacion {
@@ -40,17 +46,6 @@ a{
     }
 
 /** FRASE**/
-
-h1{
-    font-family: 'Dancing Script', cursive;
-    text-align: center;
-    color:whitesmoke;
-    /**text-decoration:underline;**/
-    
-
-}
-
-
 
 h2{
     font-family: 'Dancing Script', cursive;
