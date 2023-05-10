@@ -10,6 +10,7 @@ body{
 .seccion{
      background-color: #ffbc11;
      height:200px;
+     margin:none;
 }
 
 .seccion h1{
