@@ -54,7 +54,7 @@ h2{
     
 }
 
-.autora p{
+.autora {
     color:black;
     text-align: center;
     font-family: 'Dancing Script', cursive;
@@ -63,6 +63,7 @@ h2{
 
 p{
     color:black;
+    font-family: 'Dancing Script', cursive;
   }
   
 
@@ -75,7 +76,8 @@ img{
     margin:5px;
     width: 400px;
     height: 600px;
-    padding-left:10px;
+    padding-left:20px;
+    border-radius:20px;
     
      
 }
